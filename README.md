@@ -160,3 +160,5 @@ A pre-packaged EXE is provided in the releases section, but the app can be packa
 
 ```bat
 pyinstaller --onefile --noconsole --name "KeksWizLightController" --icon=assets/app_icon.ico --add-data "assets;assets" wiz.py
+```
+You are free to use AND modify the program for personal use, but you must credit this page in the case you decide to publish it anywhere, under the GPL-3.0 license. I am not responsible for any damange caused by the modification of this program.
